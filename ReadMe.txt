@@ -4,7 +4,7 @@ In this Project, an IDS(\textit{Intrusion Detection System}) system has been dev
 It is capable of analyze the packets transported by the SCADA network, through TCP/IP,
 allowing the reception of warnings facing possible anomalies detected on the network.
 
-It is necessary to install lbpcap library:
+It is necessary to install Libpcap library:
   apt-get install libpcap0.8-dev
   
 For compiling just use:
