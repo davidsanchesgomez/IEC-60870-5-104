@@ -1,7 +1,9 @@
 /***************************************************************************
  iec104_withHash.c
-
- Compila: gcc -Wall -o iec104 iec104_withHash.c -lpcap, make
+ Toma como codigo de partida la practica de redes de comunicaciones de la UAM EPS,
+ cuyos autores son Jose Luis Garcia Dorado, Jorge E. Lopez de Vergara Mendez, Rafael Leira, Javier Ramos
+ 2018 EPS-UAM
+ Compila: gcc -Wall -o iec104 iec104_withHash.c -lpcap
  Autor: David Sanches Gómez
  2018 EPS-UAM
 ***************************************************************************/
